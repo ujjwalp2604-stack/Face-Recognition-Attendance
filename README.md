@@ -41,8 +41,11 @@ FaceRecognitionProject/
 Install dependencies:
 
 pip install opencv-python
+
 pip install opencv-contrib-python
+
 pip install numpy
+
 pip install streamlit
 
 📸 1. Capture Dataset
